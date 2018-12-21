@@ -1,4 +1,4 @@
-# Web_Crawl
+# Web_Crawling
 
 **Overall:** Some Web crawling and practices while I was collecting my CCU-Final-Project_WGAN's dataset
 
